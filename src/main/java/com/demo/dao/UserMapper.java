@@ -1,4 +1,4 @@
-package com.demo.mapper;
+package com.demo.dao;
 
 import com.demo.model.User;
 
